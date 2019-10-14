@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 edit in project
+=======
+edit in project2
+>>>>>>> 5764df4160d3e40880744b43bff0f1d9df85b28e
